@@ -6,9 +6,9 @@ Popis aplikácie:
 Táto webová aplikácia vznikla na základe zadania z predmetu Pokročilé databázové systémy na FIIT STU v Bratislave.
 Obsahuje nasledujúce funkcionality, ktoré sa týkajú vodných plôch na Slovensku:
 
-Zobrazenie 3 najbližších vodných plôch vzhľadom na našu aktuálnu pozíciu.
-Zobrazenie vodných plôch vo vybranom okrese, vysvieti aj hranicu vybraného okresu
-Zobrazenie najbližších parkoviskách pri vodných plochách vzhľadom na plohu pohyblivého kurzotu na mape
+- Zobrazenie 3 najbližších vodných plôch vzhľadom na našu aktuálnu pozíciu.
+- Zobrazenie vodných plôch vo vybranom okrese, vysvieti aj hranicu vybraného okresu
+- Zobrazenie najbližších parkoviskách pri vodných plochách vzhľadom na plohu pohyblivého kurzotu na mape
 
 Zdroj dát:
 openstreetmaps.org
