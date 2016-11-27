@@ -8,7 +8,7 @@ Obsahuje nasledujúce funkcionality, ktoré sa týkajú vodných plôch na Slove
 
 - Zobrazenie 3 najbližších vodných plôch vzhľadom na našu aktuálnu pozíciu.
 - Zobrazenie vodných plôch vo vybranom okrese, vysvieti aj hranicu vybraného okresu
-- Zobrazenie najbližších parkoviskách pri vodných plochách vzhľadom na plohu pohyblivého kurzotu na mape
+- Zobrazenie najbližších parkovísk pri vodných plochách vzhľadom na polohu pohyblivého kurzoru na mape
 
 Zdroj dát:
 openstreetmaps.org
