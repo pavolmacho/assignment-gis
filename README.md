@@ -20,7 +20,7 @@ Použité technológie:
 - javascript
 - ajax
 - Postgis
-- Mapbox
+- Mapbox GL JS
 
 Implementácia:
 Backend aplikácie je vykonávyný v jazyku C#, kde dochádza ku všetkým dopytom na Databázu a spätnému zaslaniu dát v tvare Geojson na stranu webu.
